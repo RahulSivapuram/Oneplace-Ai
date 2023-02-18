@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693492402816",
+    "project_id": "techbro-1d1c1",
+    "storage_bucket": "techbro-1d1c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693492402816:android:4e151948cb870df22eb465",
+        "android_client_info": {
+          "package_name": "com.example.prac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693492402816-vpntsshf8ff404k4m7vvljqhbfo2graa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLhur7Pv4SPWPNnicYDTAb7oaRFvZyexM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693492402816-vpntsshf8ff404k4m7vvljqhbfo2graa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
