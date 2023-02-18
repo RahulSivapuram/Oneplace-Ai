@@ -1,16 +1,53 @@
-# prac
 
-A new Flutter project.
+# Oneplace Ai
 
-## Getting Started
+As there are many AI's right now, so this app is a platform where multiple AI's websites are stored.Instead of going to each and every website.
 
-This project is a starting point for a Flutter application.
+This app makes easy because at one place it consists of multiple options.
 
-A few resources to get you started if this is your first Flutter project:
+# 
+Front-End
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Dart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 
+
+Back-End
+
+- Firebase 
+
+
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/RahulSivapuram/Oneplace-Ai/blob/main/Oneplace/oneplace/screenshots/Screenshot_1676706129.png?raw=true)
+
+### Login
+
+![App Screenshot](https://github.com/RahulSivapuram/Oneplace-Ai/blob/main/Oneplace/oneplace/screenshots/Screenshot_1676706134.png?raw=true)
+
+### Sign Up
+
+![App Screenshot](https://github.com/RahulSivapuram/Oneplace-Ai/blob/main/Oneplace/oneplace/screenshots/Screenshot_1676706144.png?raw=true)
+
+### Home
+
+![App Screeshot](https://github.com/RahulSivapuram/Oneplace-Ai/blob/main/Oneplace/oneplace/screenshots/Screenshot_1676706355.png?raw=true)
+
+# 
+
+![App Screeshot](https://github.com/RahulSivapuram/Oneplace-Ai/blob/main/Oneplace/oneplace/screenshots/Screenshot_1676735581.png?raw=true)
+
+# 
+![App Screeshot](https://github.com/RahulSivapuram/Oneplace-Ai/blob/main/Oneplace/oneplace/screenshots/Screenshot_1676735598.png?raw=true)
+
+# 
+![App Screeshot](https://github.com/RahulSivapuram/Oneplace-Ai/blob/main/Oneplace/oneplace/screenshots/Screenshot_1676735593.png?raw=true)
+
+# 
+![App Screeshot](https://github.com/RahulSivapuram/Oneplace-Ai/blob/main/Oneplace/oneplace/screenshots/Screenshot_1676735603.png?raw=true)
+
+# 
+![App Screeshot](https://github.com/RahulSivapuram/Oneplace-Ai/blob/main/Oneplace/oneplace/screenshots/Screenshot_1676706360.png?raw=true)
+
